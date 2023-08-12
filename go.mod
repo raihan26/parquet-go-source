@@ -1,4 +1,4 @@
-module github.com/xitongsys/parquet-go-source
+module github.com/raihan26/parquet-go-source
 
 go 1.16
 
